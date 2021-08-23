@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepaksrinivasan27
+- 👋 Hi, I’m @deepaksrinivasan27 - Solution and Technical Architect
 - 👀 I’m interested in Cloud Technologies and Machine Learning
 - 🌱 I’m currently learning AI ML
 - 💞️ I’m looking to collaborate on AI ML and Blockchain.
